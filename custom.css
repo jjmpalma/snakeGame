@@ -1,0 +1,31 @@
+/*Author: Juan Manuel Palma Arroyo (jmp16). */
+
+body {
+    font-family: "Press Start 2P", cursive;
+    background-color: #f8f9fa;
+}
+
+canvas {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: 0;
+    display: block;
+    background-color: #222831;
+}
+
+legend {
+    font-size: 16px;
+}
+
+a {
+    color: #19191A;
+}
+
+#menu {
+    height: 60px;
+}
+
+#endGameText {
+    color: red;
+}
